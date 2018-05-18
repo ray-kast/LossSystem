@@ -1,0 +1,6 @@
+.git/
+.vs/
+.vscode/
+packages/
+TurtLSystem/bin/
+TurtLSystem/obj/
